@@ -26,11 +26,12 @@ For those seeking an extra challenge, adapt the Gauge Chart to visualize the wee
 ## Visualizations
 
 **Bar Chart:** Initialization, updates, data values, labels, and tooltip   
-
-I have used Github deployment to host index.html. Kindly use following link to open the browser-
-https://jasleenshergill.github.io/Belly-Button-Biodiversity/
 **Bubble Chart:** Initialization, updates, axes, colors, size, and labels   
 **Metadata and Deployment:** Initialization, updates, and successful deployment   
+
+**Deployment**
+I have used Github deployment to host index.html. Kindly use following link to open the browser-
+https://jasleenshergill.github.io/Belly-Button-Biodiversity/
 
 **Let's Dive In!**  
 Uncover the mysteries within the navel and illuminate the wonders of belly button biodiversity. 🌟
